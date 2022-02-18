@@ -1,0 +1,9 @@
+Hi Please Following this step to :
+
+1. Create Virtual Enviromet
+
+2. Install requirements.txt  
+
+3. Run twitter_accident.py 
+
+4. Last Output A list on your Terminal
